@@ -3,7 +3,8 @@ Codes used in Dagenais R., Mitsis G. D., Non-invasive estimation of arterial blo
 peripheral photoplethysmograph inside the MRI scanner. EMBC 2023
 
 Processing workflow is shown in Fig. 1
-![processing_workflow](https://user-images.githubusercontent.com/102877412/218179228-17fae60d-e3c9-4f54-b971-8c2322886caa.png)
 
 
 
+
+![processing_workflow](https://user-images.githubusercontent.com/102877412/218179480-c493d845-3924-4ab6-a49b-3ad48f07407b.png)
